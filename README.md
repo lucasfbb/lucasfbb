@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas, estudante de Ciência da Computação !! 👋<br>
+### Hello, i´m Computer science student at CEFET-RJ. !! 👋<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfbb&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
