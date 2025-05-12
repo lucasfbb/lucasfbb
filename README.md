@@ -95,6 +95,14 @@
 
 <br>
 
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBnc2R5MWVyMzZ2aDZ2bDhndmtuc2h3cDgzaWdvejRmdzVoaHhnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VxthkyRf5XNHeab3h/giphy.gif" width="35"> **GitHub Trophies**
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasfbb&theme=onedark)](https://github.com/lucasfbb/github-profile-trophy)
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Contact me at my [LinkedIn](https://www.linkedin.com/in/lucasfirminobatista/) for more details about my job experience, education and certificates.
