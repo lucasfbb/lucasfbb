@@ -12,6 +12,8 @@
 - 🎓 23 years old computer science student at CEFET/RJ
 - 💼 Full StackDeveloper at Procuradoria Geral do Município do Rio de Janeiro
 
+
+
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
 
 <div align="center">
@@ -79,6 +81,7 @@
 </p>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyeG05bjJlcTVvY3Q4NnQ5aTRnMWFncjlkeThpZjE3OXdpb21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KFtxbBwKlySN33JuGq/giphy.gif" width="35"> **Job Experience**
+<br>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -93,9 +96,9 @@
   </tr>
 </table>
 
-<br/><br/>
+<br>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Contact me at my [LinkedIn](https://www.linkedin.com/in/lucasfirminobatista/) for more details about my job experiience, education and certificates.
 
