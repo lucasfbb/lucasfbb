@@ -97,7 +97,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Contact me at my [LinkedIn](https://www.linkedin.com/in/lucasfirminobatista/) for more details about my job experiience, education and certificates.
+Contact me at my [LinkedIn](https://www.linkedin.com/in/lucasfirminobatista/) for more details about my job experience, education and certificates.
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
