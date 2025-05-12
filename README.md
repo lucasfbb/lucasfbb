@@ -12,8 +12,6 @@
 - 🎓 23 years old computer science student at CEFET/RJ
 - 💼 Full StackDeveloper at Procuradoria Geral do Município do Rio de Janeiro
 
-
-
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
 
 <div align="center">
@@ -23,7 +21,6 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-<br>
 
 <p align="center">
   
