@@ -69,14 +69,6 @@
 
 <br>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
-
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-</p>
-
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyeG05bjJlcTVvY3Q4NnQ5aTRnMWFncjlkeThpZjE3OXdpb21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KFtxbBwKlySN33JuGq/giphy.gif" width="35"> **Job Experience**
 <br>
 
@@ -94,6 +86,15 @@
 </table>
 
 <br>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+
+</p>
+
 
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBnc2R5MWVyMzZ2aDZ2bDhndmtuc2h3cDgzaWdvejRmdzVoaHhnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VxthkyRf5XNHeab3h/giphy.gif" width="35"> **GitHub Trophies**
