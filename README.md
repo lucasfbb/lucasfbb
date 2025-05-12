@@ -12,11 +12,6 @@
 - 🎓 23 years old computer science student at at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ), expecting to graduate in July 2025.
 - 💼 Full StackDeveloper at Procuradoria Geral do Município do Rio de Janeiro
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
-
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 <p align="center">
@@ -71,6 +66,12 @@
   ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <br>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 </p>
 
