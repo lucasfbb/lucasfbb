@@ -9,7 +9,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> **About me**
 
-- 🎓 23 years old computer science student at CEFET/RJ
+- 🎓 23 years old computer science student at at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ), expecting to graduate in July 2025.
 - 💼 Full StackDeveloper at Procuradoria Geral do Município do Rio de Janeiro
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
