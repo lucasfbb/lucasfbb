@@ -32,6 +32,7 @@
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=c)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23154472.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Delphi](https://img.shields.io/badge/Delphi%20-%23800020.svg?style=for-the-badge&logo=delphi&logoColor=white)
 
 <br>   
 
@@ -77,20 +78,26 @@
 
 </p>
 
-## <img src="https://divisiononestaffing.com/wp-content/uploads/2022/04/187-suitcase-outline.gif" width="35"> **Job experience**
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyeG05bjJlcTVvY3Q4NnQ5aTRnMWFncjlkeThpZjE3OXdpb21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KFtxbBwKlySN33JuGq/giphy.gif" width="35"> **Job Experience**
 
-<img align="left" height="94px" width="94px" alt="PGM-RJ" src="![image](https://github.com/user-attachments/assets/3057bf39-50db-4291-a08d-105e71b25301)"/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100px">
+      <img src="https://procuradoria.prefeitura.rio/wp-content/uploads/sites/14/2025/01/RIOPREFEITURA-Procuradoria-horizontal-monocromatica-branco.png" width="90px" alt="PGM-RJ">
+    </td>
+    <td>
+      <b>System Analyst Intern</b> • <i>Jan 2024 – Present</i> <br>
+      <b>Procuradoria Geral do Município do Rio de Janeiro</b> <br>
+      <b>Technologies:</b> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Delphi</code>
+    </td>
+  </tr>
+</table>
 
-**System Analyst Intern** • 01/2024 - Present \
-**Procuradoria Geral do Município do Rio de Janeiro** \
-Programming languages & Technologies: `Python`, `TypeScript`, `JavaScript`, `Delphi`, , `SAP` \
+<br/><br/>
+
 <br/>
 
-
-<br/>
-<br/>
-
-Contact me at my [LinkedIn]() for more details about my job experiience, education and certificates.
+Contact me at my [LinkedIn](https://www.linkedin.com/in/lucasfirminobatista/) for more details about my job experiience, education and certificates.
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
