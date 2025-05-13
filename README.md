@@ -59,13 +59,21 @@
 
 <br>
 
+- **AI & Automation**:
+
+  - 🧠 I’ve been exploring practical AI integration in real-world systems using tools like:
+    - ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=black) for no-code workflow automation + LLM triggers
+    - ![CrewAI](https://img.shields.io/badge/crewai-f56155?style=for-the-badge&logo=crewai&logoColor=black) for orchestrating multi-agent LLM pipelines
+  - ⚙️ Integrating OpenAI / Ollama for document processing and chat-based automation in projects
+
+<br>
+
 - **Extras**:
   
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-%2300BC7E.svg?style=for-the-badge&logo=swagger&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <br>
 
