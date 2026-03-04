@@ -129,18 +129,24 @@ Work includes:
 
 </table>
 
----
-
-# 🌎 Contact
+## 🌎 Contact
 
 <p align="center">
 
+<a href="mailto:lucasfirmino2612@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <a href="https://www.linkedin.com/in/lucasfirminobatista/">
-<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Firmino-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://lucasfirminodev.com.br">
+<img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://instagram.com/lucasssfb">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
