@@ -1,120 +1,141 @@
-<!--horizontal divider(gradiant)-->
+<!-- Top divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hi, I'm Lucas Firmino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Lucas Firmino 👋</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8EFD4&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;System+Analyst+Intern;Full-Stack+Developer;Love+to+learn+new+technologies"></a>
+Backend Engineer • AI Systems • Python
 </p>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> **About me**
-
-- 🎓 23 years old computer science student at at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ), expecting to graduate in July 2025.
-- 💼 Full StackDeveloper at Procuradoria Geral do Município do Rio de Janeiro
-
-<br> 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-
 <p align="center">
-  
-- **Languages**:
-  
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=c)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23154472.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Delphi](https://img.shields.io/badge/Delphi%20-%23800020.svg?style=for-the-badge&logo=delphi&logoColor=white)
+  <a href="https://github.com/lucasfbb">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;AI+Systems+%7C+RAG+Architectures;Building+Scalable+Backend+Services">
+  </a>
+</p>
 
-<br>   
+---
 
-- **Frameworks & Bibliotecas**:
-  
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+# 🧠 About Me
 
-<br>
+Backend Engineer focused on building **scalable APIs, AI-powered systems and data pipelines**.
 
-- **Banco de Dados**:
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-%23EE4B2B.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![CouchDB](https://img.shields.io/badge/ApachecouchDB-%23C41E3A.svg?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+I specialize in **Python backend development**, designing architectures for **LLM applications, document processing pipelines, semantic search and automation workflows**.
 
-<br>
+I have experience developing **real-world systems used in institutional environments**, combining backend engineering, AI integration and data processing.
 
-- **DevOps & Ferramentas**:
-    
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-<br>
+# ⚙️ Core Stack
 
-- **AI & Automation**:
+### Backend
 
-  - 🧠 I’ve been exploring practical AI integration in real-world systems using tools like:
-    - ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=black) for no-code workflow automation + LLM triggers
-    - ![CrewAI](https://img.shields.io/badge/crewai-f56155?style=for-the-badge&logo=crewai&logoColor=black) for orchestrating multi-agent LLM pipelines
-  - ⚙️ Integrating OpenAI / Ollama for document processing and chat-based automation in projects
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br>
+### Frontend (supporting)
 
-- **Extras**:
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/Swagger-%2300BC7E.svg?style=for-the-badge&logo=swagger&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-154472?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br>
+### Data
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyeG05bjJlcTVvY3Q4NnQ5aTRnMWFncjlkeThpZjE3OXdpb21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KFtxbBwKlySN33JuGq/giphy.gif" width="35"> **Job Experience**
-<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="100px">
-      <img src="https://procuradoria.prefeitura.rio/wp-content/uploads/sites/14/2025/01/RIOPREFEITURA-Procuradoria-horizontal-monocromatica-branco.png" width="90px" alt="PGM-RJ">
-    </td>
-    <td>
-      <b>System Analyst Intern</b> • <i>Jan 2024 – Present</i> <br>
-      <b>Procuradoria Geral do Município do Rio de Janeiro</b> <br>
-      <b>Technologies:</b> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Delphi</code>
-    </td>
-  </tr>
+### AI / LLM Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF4444?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=black)
+
+• Retrieval-Augmented Generation (RAG)  
+• Semantic Search  
+• Embeddings & Vector Databases  
+• Document Processing Pipelines  
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 🛠 What I Build
+
+• Scalable backend APIs  
+• AI-powered document processing systems  
+• Retrieval-Augmented Generation (RAG) pipelines  
+• Data ingestion and automation workflows  
+• Backend architectures for production systems  
+
+---
+
+# 💼 Professional Experience
+
+<table border="0">
+<tr>
+<td width="120px">
+
+<img src="https://procuradoria.prefeitura.rio/wp-content/uploads/sites/14/2025/01/RIOPREFEITURA-Procuradoria-horizontal-monocromatica-branco.png" width="100px">
+
+</td>
+
+<td>
+
+### Backend Developer — RM Consult
+
+Development of backend services and AI-powered systems using **Python, FastAPI and PostgreSQL**.
+
+Work includes:
+
+• REST API development  
+• Database modeling and optimization  
+• Integration with LLM APIs (OpenAI)  
+• RAG architectures for document analysis  
+• Automated pipelines for document processing  
+• Automation workflows with n8n  
+
+</td>
+
+</tr>
 </table>
 
-<br>
+---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
+# 📊 GitHub Stats
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfbb&show_icons=true&theme=tokyonight"/>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfbb&layout=compact&theme=tokyonight"/>
 
 </p>
 
+---
 
+# 🏆 GitHub Trophies
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBnc2R5MWVyMzZ2aDZ2bDhndmtuc2h3cDgzaWdvejRmdzVoaHhnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VxthkyRf5XNHeab3h/giphy.gif" width="35"> **GitHub Trophies**
-<br>
+<p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucasfbb&theme=onedark)](https://github.com/lucasfbb/github-profile-trophy)
 
-<br>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-Contact me at my [LinkedIn](https://www.linkedin.com/in/lucasfirminobatista/) for more details about my job experience, education and certificates.
+# 🌎 Contact
 
-<!--horizontal divider(gradiant)-->
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lucasfirminobatista/">
+<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Firmino-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
