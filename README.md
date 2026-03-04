@@ -24,7 +24,7 @@ Backend Engineer • AI Systems • Python
 </a>
 
 <a href="https://lucasfirminodev.com.br">
-<img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://instagram.com/lucasssfb">
