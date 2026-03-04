@@ -13,6 +13,26 @@ Backend Engineer • AI Systems • Python
   </a>
 </p>
 
+<p align="center">
+
+<a href="mailto:lucasfirmino2612@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/lucasfirminobatista/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://lucasfirminodev.com.br">
+<img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://instagram.com/lucasssfb">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
 ---
 
 # 🧠 About Me
@@ -128,25 +148,3 @@ Work includes:
 </tr>
 
 </table>
-
-## 🌎 Contact
-
-<p align="center">
-
-<a href="mailto:lucasfirmino2612@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/lucasfirminobatista/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://lucasfirminodev.com.br">
-<img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="https://instagram.com/lucasssfb">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
