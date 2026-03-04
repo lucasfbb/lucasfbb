@@ -32,6 +32,7 @@ I have experience developing **real-world systems used in institutional environm
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 
 ### Frontend (supporting)
 
@@ -41,12 +42,13 @@ I have experience developing **real-world systems used in institutional environm
 ### Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI / LLM Systems
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-EF4444?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF4444?style=for-the-badge&logo=qdrant&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=black)
 
 • Retrieval-Augmented Generation (RAG)  
@@ -84,45 +86,48 @@ I have experience developing **real-world systems used in institutional environm
 
 <td>
 
-### Backend Developer — RM Consult
+### System Analyst — Procuradoria Geral do Município do Rio de Janeiro
 
-Development of backend services and AI-powered systems using **Python, FastAPI and PostgreSQL**.
+Development and evolution of institutional systems used in legal and administrative environments.
 
 Work includes:
 
-• REST API development  
-• Database modeling and optimization  
-• Integration with LLM APIs (OpenAI)  
-• RAG architectures for document analysis  
-• Automated pipelines for document processing  
-• Automation workflows with n8n  
+• Backend development with **Python (FastAPI & Flask)**  
+• Design and implementation of **REST APIs**  
+• **PostgreSQL** database modeling and optimization  
+• Integration between frontend and backend systems  
+• Development of **AI-powered document processing solutions**  
+• Implementation of **RAG architectures for legal document retrieval**
+
+</td>
+</tr>
+
+<tr>
+<td width="120px">
+
+<img width="80px" alt="image" src="https://github.com/user-attachments/assets/22a04259-a66b-487a-a4cd-03992c0f3b3f" />
 
 </td>
 
+<td>
+
+### Backend Developer — RM Consult
+
+Development of backend services and AI-powered systems focused on scalable architectures.
+
+Work includes:
+
+• Backend development with **Python and FastAPI**  
+• Creation of **scalable REST APIs**  
+• **PostgreSQL** data modeling and optimization  
+• Integration with **LLM APIs (OpenAI)**  
+• Implementation of **RAG pipelines for document analysis**  
+• Automation workflows using **n8n**
+
+</td>
 </tr>
+
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfbb&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfbb&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasfbb&theme=onedark)](https://github.com/lucasfbb/github-profile-trophy)
-
-</p>
 
 ---
 
